@@ -5,6 +5,9 @@ algorithm predict the chess KRK (King-Rook vs King) outcome based on position of
 board.
 
 Algorithms used:
+
 -Multiclass Logistic Regression 
+
 -Random Forest
+
 -XGBoost
